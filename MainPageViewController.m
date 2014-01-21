@@ -29,7 +29,6 @@
     // Do any additional setup after loading the view from its nib.
     
     _welcomeLabel.text = NSLocalizedString(@"mainView.welcome.text", nil);
-
 }
 
 - (void)didReceiveMemoryWarning

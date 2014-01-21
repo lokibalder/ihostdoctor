@@ -10,6 +10,11 @@
 #import "MainPageModel.h"
 
 @interface MainPageViewController : UIViewController
+
+//model
+@property MainPageModel* mainPageModel;
+
+//ui
 @property (weak, nonatomic) IBOutlet UILabel *welcomeLabel;
 @property (weak, nonatomic) IBOutlet UILabel *usernameLabel;
 
