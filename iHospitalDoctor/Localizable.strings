@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  hosmvc1
+
+  Created by  周 天力 on 14-1-19.
+  Copyright (c) 2014年 com.zhoutianli. All rights reserved.
+*/
+"loginView.welcome.text"="欢迎使用掌上医院";
+"loginView.username.label.text"="用户名";
+"loginView.username.textfield.text"="请输入用户名";
+"loginView.password.label.text"="密码";
+"loginView.password.textfield.text"="请输入密码";
+"loginView.logininfo.label.text"="登陆状态";
+"loginView.logininfo.succeed"="登陆成功";
+"loginView.logininfo.failed"="登陆失败";
+"loginView.loginbutton.text"="登陆";
+
+"mainView.welcome.text"="掌上医院首页";
